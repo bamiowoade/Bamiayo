@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Bamiayo
+- 👋 Hi, I’m @Bami
 - 👀 I’m interested in uxdesign, uidesign, frontend development, blockchain technology and games design.
 - 🌱 I’m currently learning frontend development.
 - 💞️ I’m looking to collaborate on any available ui/ux design projects.
